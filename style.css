@@ -1,0 +1,32 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #dbf3f3d7;
+}
+
+.row {
+  padding-top: 2rem;
+}
+
+#Achievment {
+  background-color: #dbf3f3d7;
+  padding-top: 2rem;
+}
+
+#about {
+  height: 400px;
+  padding-top: 3rem;
+  padding-bottom: 2rem;
+}
+
+#contact {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+footer {
+  background-color: #6c757d;
+  color: white;
+  text-align: center;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+}
